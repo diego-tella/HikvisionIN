@@ -5,8 +5,7 @@ A python script that look for hikvision vulnerable cams with a backdoor.
 
 ```git clone https://github.com/diego-tella/HikvisionIN/
 cd HikvisionIN
-chmod +x install.sh
-./install.sh
+pip install shodan
 python script.py
 ```
 
