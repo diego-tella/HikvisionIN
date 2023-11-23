@@ -73,9 +73,9 @@ else:
     print("[+] Verbose: off")
     verbose = False
 if dowloadSnapshot:
-    print("[+] Dowload snapshot: on")
+    print("[+] Download snapshot: on")
 else:
-    print("[+] Dowload snapshot: off")
+    print("[+] Download snapshot: off")
     dowloadSnapshot = False
 print("[+] Dork used: "+dork)
 
